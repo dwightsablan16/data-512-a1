@@ -32,8 +32,9 @@ The steps are as follows:
 
 
 ## Analysis
+In this analysis we create a time-series graph that illustrates the Monthly Traffic, Pagecount and Pageviews, on Wikipedia with a temporal coverage from 2008-September 2021. 
 
-[Time-series](https://github.com/dwightsablan16/data-512-a1/blob/main/plot.png?raw=true)
+[Plot](https://github.com/dwightsablan16/data-512-a1/blob/main/plot.png?raw=true)
 
 
 
