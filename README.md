@@ -33,7 +33,7 @@ The steps are as follows:
 
 ## Analysis
 
-[Time-series](https://github.com/dwightsablan16/data-512-a1/blob/main/plot.jpg?raw=true)
+[Time-series](https://github.com/dwightsablan16/data-512-a1/blob/main/plot.png?raw=true)
 
 
 
